@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KqXq2EYyBB+JgW33V/Ntvpd7/dlQqiip0r3BA4g1SPYNPbDb+UhOM7CHOWm5zZb8Vhy6z2Acmu/WiUxGhxbbqQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\carl.halen\\Documents\\Programmering\\resting B face\\resting B face\\resting B face.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carl.halen\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\carl.halen\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\carl.halen\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\carl.halen\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,18 @@
+c:\Users\carl.halen\Documents\Programmering\resting B face\resting B face\obj\Debug\net7.0\resting B face.csproj.AssemblyReference.cache
+c:\Users\carl.halen\Documents\Programmering\resting B face\resting B face\obj\Debug\net7.0\resting B face.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\carl.halen\Documents\Programmering\resting B face\resting B face\obj\Debug\net7.0\resting B face.AssemblyInfoInputs.cache
+c:\Users\carl.halen\Documents\Programmering\resting B face\resting B face\obj\Debug\net7.0\resting B face.AssemblyInfo.cs
+c:\Users\carl.halen\Documents\Programmering\resting B face\resting B face\obj\Debug\net7.0\resting B face.csproj.CoreCompileInputs.cache
+c:\Users\carl.halen\Documents\Programmering\resting B face\resting B face\bin\Debug\net7.0\resting B face.exe
+c:\Users\carl.halen\Documents\Programmering\resting B face\resting B face\bin\Debug\net7.0\resting B face.deps.json
+c:\Users\carl.halen\Documents\Programmering\resting B face\resting B face\bin\Debug\net7.0\resting B face.runtimeconfig.json
+c:\Users\carl.halen\Documents\Programmering\resting B face\resting B face\bin\Debug\net7.0\resting B face.dll
+c:\Users\carl.halen\Documents\Programmering\resting B face\resting B face\bin\Debug\net7.0\resting B face.pdb
+c:\Users\carl.halen\Documents\Programmering\resting B face\resting B face\bin\Debug\net7.0\Newtonsoft.Json.dll
+c:\Users\carl.halen\Documents\Programmering\resting B face\resting B face\bin\Debug\net7.0\RestSharp.dll
+c:\Users\carl.halen\Documents\Programmering\resting B face\resting B face\obj\Debug\net7.0\resting B face.csproj.CopyComplete
+c:\Users\carl.halen\Documents\Programmering\resting B face\resting B face\obj\Debug\net7.0\resting B face.dll
+c:\Users\carl.halen\Documents\Programmering\resting B face\resting B face\obj\Debug\net7.0\refint\resting B face.dll
+c:\Users\carl.halen\Documents\Programmering\resting B face\resting B face\obj\Debug\net7.0\resting B face.pdb
+c:\Users\carl.halen\Documents\Programmering\resting B face\resting B face\obj\Debug\net7.0\resting B face.genruntimeconfig.cache
+c:\Users\carl.halen\Documents\Programmering\resting B face\resting B face\obj\Debug\net7.0\ref\resting B face.dll
